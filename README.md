@@ -12,3 +12,6 @@
 
 ## Table Template (see the zip_English version)
 #### Describe the table template of HTG database, with Rock, Mineral, Host Rock three versions.
+
+## Technical architecture (see the md_Chinese version)
+#### Describe the technical architecture of HTG Database, including the programing language and version.
