@@ -10,5 +10,5 @@
 ## Data Dictionary (see the excel_English version)
 #### Describe the data dictionary of HTG database like the name of minerals and rocks, the geological environment words.
 
-## Table Template (see the excel_English version)
+## Table Template (see the zip_English version)
 #### Describe the table template of HTG database, with Rock, Mineral, Host Rock three versions.
