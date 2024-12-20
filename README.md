@@ -18,3 +18,6 @@
 
 ## Technical architecture (see the md_Chinese version)
 #### Describe the technical architecture of HTG Database, including the programing language and version.
+
+## Data Organization Docs (see the docx_Chinese version)
+#### Describe how data from different projects and sources is organized into the dataset.
