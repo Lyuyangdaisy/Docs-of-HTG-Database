@@ -1,6 +1,9 @@
 ## User Guide (readthedocs link_English version)
 #### https://test-for-users-doc.readthedocs.io/en/latest/USER%20GUIDE%28FOR%20USER%29.html
 
+## API Docs (apipost link_Chinese version)
+#### https://console-docs.apipost.cn/preview/23251ee88f851151/a6a24e80235d00f9
+
 ## UI Design Docs (Feishu link_Chinese version)
 #### https://fffxrgv32s.feishu.cn/docx/OhfydgdgzonGFWxhv0qcj89Gn7e
 
