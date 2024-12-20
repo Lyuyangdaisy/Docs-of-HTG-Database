@@ -5,7 +5,10 @@
 #### https://fffxrgv32s.feishu.cn/docx/OhfydgdgzonGFWxhv0qcj89Gn7e
 
 ## Sever Development Docs (see the zip_Chinese/English version)
+#### Describe the development process of the front-end and back-end sever
 
 ## Dictionary Table (see the excel_English version)
+#### Describe the data dictionary of HTG database like the name of minerals and rocks, the geological environment words.
 
 ## Table Template (see the excel_English version)
+#### Describe the table template of HTG database, with Rock, Mineral, Host Rock three versions.
